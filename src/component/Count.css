@@ -1,0 +1,33 @@
+.caption {
+    line-height: 22px;
+
+    float: left;
+
+    height: 22px;
+    margin-right: 10px;
+}
+.plus,
+.minus {
+    line-height: 20px;
+
+    float: left;
+
+    width: 20px;
+    height: 20px;
+
+    cursor: pointer;
+    user-select: none;
+    text-align: center;
+
+    border: 1px solid #ccc;
+}
+.count {
+    line-height: 22px;
+
+    float: left;
+
+    width: 20px;
+    height: 22px;
+
+    text-align: center;
+}
